@@ -20,3 +20,4 @@ Using an OLED display makes the project more visually appealing and informative.
 
 This setup creates a compact, efficient, and portable heart rate monitoring system perfect for real-time health tracking.
 
+A DEMO OF THIS PROJECT https://how2electronics.com/wp-content/uploads/2019/02/Pulse-Sensor-Arduino.jpg
