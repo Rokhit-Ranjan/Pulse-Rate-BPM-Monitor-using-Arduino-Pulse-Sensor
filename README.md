@@ -1,3 +1,5 @@
+#Pulse Rate (BPM) Monitor using Arduino & Pulse Sensor#
+
 In this project, we will interface a Pulse Sensor with an Arduino to measure heart rate (Beats Per Minute - BPM), with the results displayed on an OLED display instead of a traditional 16×2 LCD. The OLED display provides a sleek, modern look and is more compact, making it ideal for wearable or portable health monitoring devices.
 
 Components Required:
@@ -17,3 +19,4 @@ Code Overview:
 Using an OLED display makes the project more visually appealing and informative. The code will continuously read data from the Pulse Sensor, calculate the BPM, and display it on the OLED. We will use libraries like Adafruit_GFX and Adafruit_SSD1306 to control the OLED display, and a simple algorithm to filter the pulse readings from the sensor.
 
 This setup creates a compact, efficient, and portable heart rate monitoring system perfect for real-time health tracking.
+
